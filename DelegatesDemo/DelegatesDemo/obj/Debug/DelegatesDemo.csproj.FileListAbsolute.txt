@@ -1,0 +1,7 @@
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\Training\csharp\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

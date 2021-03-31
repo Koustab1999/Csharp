@@ -1,0 +1,6 @@
+C:\Training\csharp\SalaryLib\SalaryLib\bin\Debug\SalaryLib.dll
+C:\Training\csharp\SalaryLib\SalaryLib\bin\Debug\SalaryLib.pdb
+C:\Training\csharp\SalaryLib\SalaryLib\obj\Debug\SalaryLib.csprojAssemblyReference.cache
+C:\Training\csharp\SalaryLib\SalaryLib\obj\Debug\SalaryLib.csproj.CoreCompileInputs.cache
+C:\Training\csharp\SalaryLib\SalaryLib\obj\Debug\SalaryLib.dll
+C:\Training\csharp\SalaryLib\SalaryLib\obj\Debug\SalaryLib.pdb
